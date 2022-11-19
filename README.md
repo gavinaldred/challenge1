@@ -16,7 +16,7 @@ View the completed project below on the deployed link. A screenshot has also bee
 
  
   
-![Clients Website](assets\images\MD_Screenshot.png)
+![Clients Website](assets/images/MD_Screenshot.png)
    
 
 [Link to the finished deployed website](https://gavinaldred.github.io/challenge1/)
