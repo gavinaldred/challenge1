@@ -54,7 +54,7 @@ h3 {
 }
 
 /*Background image
-/*** Sets a background image at the top of the page, width and height is controlled in CSS==*/
+/*** Sets a background image at the top of the page, image width and height is controlled by CSS==*/
 
 .hero {
 	height: 800px;

@@ -1,9 +1,9 @@
 # <Horison-Marketing-Accessibilty-Project>
 ## Description
 
-Horiseon Marketing Agency wanted their codebase improved so that it followed accessibilty standards, and improved their SEO.
+Horiseon Marketing Agency wanted its codebase improved so that it followed accessibility standards, and improved their SEO.
 
-Work was completed on optimsing Alt tags, fixing links, adding semantc HTML and organsing CSS.
+Work was completed on optimizing Alt tags, fixing links, adding semantic HTML, and structuring CSS.
 
 
 ## Installation
@@ -12,10 +12,12 @@ N/A
 
 ## Usage
 
-View the completed project below on the deployed link. Screenshot also added.
+View the completed project below on the deployed link. A screenshot has also been added.
 
  
-    [![Clients Website](/assets/images/MD_Screenshot.png)
+  
+![Clients Website](assets\images\MD_Screenshot.png)
+   
 
 [Link to the finished deployed website](https://gavinaldred.github.io/challenge1/)
 
